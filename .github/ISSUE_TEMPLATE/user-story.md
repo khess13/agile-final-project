@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: User Story
-about: Holds user story
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
